@@ -3,12 +3,12 @@ Repositório destinado para o armazenamento do projeto de Portal de Empregos.
 
 > ## _índice_
 
-- Introdução;
-- Resumo do Projeto;
-- Funcionalidades;
-- Testes e resultados;
-- Designs e estilos;
-- Segurança de dados;
-- Estrutura de programação;
+- [Introdução](#introdução);
+- [Resumo do Projeto](#introdução);
+- [Funcionalidades](#introdução);
+- [Testes e resultados](#introdução);
+- [Designs e estilos](#introdução);
+- [Segurança de dados](#introdução);
+- [Estrutura de programação](#introdução);
 
 > ## Introdução
