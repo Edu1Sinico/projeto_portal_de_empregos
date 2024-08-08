@@ -1,6 +1,10 @@
 # Sistema Web de Portal de Empregos
 Repositório destinado para o armazenamento do projeto de Portal de Empregos.
 
+Links adicionais:
+[Projeto de Portal de Empregos no Microsoft Planner](https://tasks.office.com/sesisenaispedu.onmicrosoft.com/pt-BR/Home/Planner/#/plantaskboard?groupId=05a234ff-ff93-43f3-8747-be6ad97af327&planId=_DgOSemx7EGJhpI5lBygGGQAAUNp);
+
+
 > ## _índice_
 
 - [Introdução](#introdução);
@@ -19,8 +23,14 @@ Nosso portal foi desenvolvido para facilitar a busca por novas oportunidades, es
 Com isso, criamos uma plataforma acessível e intuitiva que busca conectar candidatos a oportunidades de trabalho, bem como ajudar empresas a identificar e contratar os talentos necessários para o seu crescimento. O objetivo final é contribuir para um mercado de trabalho mais dinâmico e eficiente, beneficiando tanto os candidatos quanto as empresas.
 
 > ## _Resumo do Projeto_
+
 > ## _Funcionalidades_
+
 > ## _Testes e Resultados_
+
 > ## _Designs e Estilos_
+
 > ## _Segurança de Dados_
+
 > ## _Estrutura de Programação_
+
