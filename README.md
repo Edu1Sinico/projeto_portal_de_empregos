@@ -16,7 +16,7 @@ Links adicionais:
 - [Estrutura de Programação](#estrutura-de-programação);
 
 >  ## _Introdução_
-<br><br>
+<br>
 O crescente desemprego e a dificuldade em encontrar oportunidades de trabalho adequadas, bem como a escassez de funcionários qualificados, são desafios significativos no mercado de trabalho atual. Este projeto tem como objetivo fornecer soluções para esses problemas através da criação de um portal de empregos.
 
 Nosso portal foi desenvolvido para facilitar a busca por novas oportunidades, especialmente para jovens que estão iniciando suas carreiras. Além disso, ele também visa ajudar empresas a encontrar candidatos qualificados de maneira mais eficiente e direcionada.
@@ -34,7 +34,7 @@ Com isso, criamos uma plataforma acessível e intuitiva que busca conectar candi
 > ## _Segurança de Dados_
 
 > ## _Estrutura de Programação_
-<br><br>
+<br>
 **Framework Laravel**
 O portal de empregos foi desenvolvido utilizando o framework Laravel, uma poderosa ferramenta baseada em PHP que permite o desenvolvimento de aplicações web de forma rápida e segura. Laravel oferece uma arquitetura bem estruturada e organizada, facilitando a implementação de funcionalidades complexas, como autenticação de usuários, gerenciamento de dados e integração com APIs. Suas características, como o sistema de rotas simples, a utilização de Eloquent ORM para manipulação de banco de dados e o suporte a migrações, fazem dele uma escolha ideal para projetos que demandam escalabilidade e segurança.
 <br><br>
