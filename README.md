@@ -24,20 +24,23 @@ Com isso, criamos uma plataforma acessível e intuitiva que busca conectar candi
 <br>
 > ## _Objetivos do Projeto_
 **1. Específicos:**
-     - Objetivo: Criar uma plataforma de empregos online que permita a candidatos se cadastrarem, criarem currículos, e se candidatarem a vagas, além de permitir que empresas publiquem oportunidades de emprego e busquem candidatos qualificados.<br>
+     <br>- Objetivo: Criar uma plataforma de empregos online que permita a candidatos se cadastrarem, criarem currículos, e se candidatarem a vagas, além de permitir que empresas publiquem oportunidades de emprego e busquem candidatos qualificados.<br>
      - Explicação: O objetivo é claro e detalhado, definindo as principais funcionalidades que o site precisa oferecer.<br>
 
 **2. Mensuráveis**
-     - Objetivo: Alcançar 500 usuários cadastrados (candidatos e empresas) e 50 vagas de emprego publicadas no primeiro mês após o lançamento do site.<br>
+     <br>- Objetivo: Alcançar 500 usuários cadastrados (candidatos e empresas) e 50 vagas de emprego publicadas no primeiro mês após o lançamento do site.<br>
      - Explicação: Esses números fornecem uma meta quantificável que pode ser usada para medir o sucesso inicial do site.<br>
+     
 **3. Atingíveis**
-     - Objetivo: Desenvolver e lançar a plataforma dentro de um período de três meses, utilizando recursos e tecnologias disponíveis (Laravel, PostgreSQL) com uma equipe de desenvolvimento composta por 21 pessoas.<br>
+     <br>- Objetivo: Desenvolver e lançar a plataforma dentro de um período de três meses, utilizando recursos e tecnologias disponíveis (Laravel, PostgreSQL) com uma equipe de desenvolvimento composta por 21 pessoas.<br>
      - Explicação: O prazo e os recursos estão alinhados com a capacidade da equipe, tornando o objetivo realista e alcançável.<br>
+     
 **4. Relevantes**
-     - Objetivo: Contribuir para a redução do desemprego e facilitar a contratação de profissionais qualificados, atendendo às necessidades tanto dos candidatos quanto das empresas em busca de talentos.<br>
+     <br>- Objetivo: Contribuir para a redução do desemprego e facilitar a contratação de profissionais qualificados, atendendo às necessidades tanto dos candidatos quanto das empresas em busca de talentos.<br>
      - Explicação: O objetivo está alinhado com problemas reais do mercado de trabalho e tem um impacto significativo para os usuários.<br>
+     
 **5. Temporais**
-     - Objetivo: Lançar a versão beta do portal de empregos em até três meses, com planos de implementar funcionalidades adicionais e realizar melhorias baseadas no feedback dos usuários durante os três meses subsequentes.<br>
+     <br>- Objetivo: Lançar a versão beta do portal de empregos em até três meses, com planos de implementar funcionalidades adicionais e realizar melhorias baseadas no feedback dos usuários durante os três meses subsequentes.<br>
      - Explicação: Estabelece um cronograma claro para o lançamento e desenvolvimento contínuo do projeto.<br>
 
 <br>
