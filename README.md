@@ -71,4 +71,11 @@ O portal de empregos foi desenvolvido utilizando o framework Laravel, uma podero
 **Banco de Dados Postgresql**
 <br>
 Para o gerenciamento dos dados, optamos pelo PostgreSQL, um banco de dados relacional conhecido por sua robustez, desempenho e conformidade com o padrão SQL. PostgreSQL oferece suporte a transações complexas, integridade referencial e a capacidade de lidar com grandes volumes de dados, o que o torna perfeito para uma aplicação que precisa armazenar e gerenciar informações críticas, como perfis de candidatos, vagas de emprego, e dados empresariais. A combinação de Laravel com PostgreSQL garante que o sistema seja não apenas funcional, mas também seguro e eficiente.
+
+<hr>
+
+**Github**
 <br>
+Além disso, utilizamos o Git como sistema de controle de versão, permitindo o armazenamento seguro de todos os arquivos do projeto e da documentação. O Git não só facilita a colaboração entre os membros da equipe, como também assegura que todas as mudanças no código sejam registradas e possam ser revertidas, se necessário, garantindo assim um desenvolvimento mais organizado e controlado.
+
+
