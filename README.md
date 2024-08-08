@@ -5,7 +5,7 @@ Links adicionais:
 [Projeto de Portal de Empregos no Microsoft Planner](https://tasks.office.com/sesisenaispedu.onmicrosoft.com/pt-BR/Home/Planner/#/plantaskboard?groupId=05a234ff-ff93-43f3-8747-be6ad97af327&planId=_DgOSemx7EGJhpI5lBygGGQAAUNp);
 
 
-> ## _índice_
+>  ***índice***
 
 - [Introdução](#introdução);
 - [Resumo do Projeto](#resumo-do-projeto);
@@ -15,22 +15,23 @@ Links adicionais:
 - [Segurança de Dados](#segurança-de-dados);
 - [Estrutura de Programação](#estrutura-de-programação);
 
-> ## _Introdução_
+>  ***Introdução***
 O crescente desemprego e a dificuldade em encontrar oportunidades de trabalho adequadas, bem como a escassez de funcionários qualificados, são desafios significativos no mercado de trabalho atual. Este projeto tem como objetivo fornecer soluções para esses problemas através da criação de um portal de empregos.
 
 Nosso portal foi desenvolvido para facilitar a busca por novas oportunidades, especialmente para jovens que estão iniciando suas carreiras. Além disso, ele também visa ajudar empresas a encontrar candidatos qualificados de maneira mais eficiente e direcionada.
 
 Com isso, criamos uma plataforma acessível e intuitiva que busca conectar candidatos a oportunidades de trabalho, bem como ajudar empresas a identificar e contratar os talentos necessários para o seu crescimento. O objetivo final é contribuir para um mercado de trabalho mais dinâmico e eficiente, beneficiando tanto os candidatos quanto as empresas.
 
-> ## _Resumo do Projeto_
+> ***Resumo do Projeto***
 
-> ## _Funcionalidades_
+> ***Funcionalidades***
 
-> ## _Testes e Resultados_
+> ***Testes e Resultados***
 
-> ## _Designs e Estilos_
+> ***Designs e Estilos***
 
-> ## _Segurança de Dados_
+> ***Segurança de Dados***
 
-> ## _Estrutura de Programação_
+> ***Estrutura de Programação***
+
 
